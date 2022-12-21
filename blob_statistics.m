@@ -1,7 +1,6 @@
 clear all; close all; clc;
 
 %%%%  Project: Blob Statistics
-%%%%  Student ID: 27952827
 
 %% === STEP 1 - IMPORTING THE IMAGE ===
 % I = imread('IMG_20200317_151602.jpg');  % Fish
